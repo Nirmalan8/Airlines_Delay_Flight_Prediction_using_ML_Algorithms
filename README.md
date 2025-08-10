@@ -58,7 +58,7 @@ xgboost
 | Model                   | Accuracy |
 |------------------------|----------|
 | Decision Tree           | **68%**  |
-| Random Forest           | **73%**  |
+| Random Forest           | **70%**  |
 | Logistic Regression     | **58%**  |
 | XGBoost                 | **66%**  |
 | AdaBoost                | **62%**  |
