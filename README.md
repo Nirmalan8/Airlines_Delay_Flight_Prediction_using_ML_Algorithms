@@ -66,7 +66,8 @@ xgboost
 ---
 
 ##  Key Visualizations
-- **Class Distribution**                                                                                           <img width="614" height="443" alt="Screenshot 2025-08-10 081305" src="https://github.com/user-attachments/assets/db26da5b-5ffd-4ce8-832f-662d4d09da97" />
+- **Class Distribution**
+<img width="614" height="443" alt="Screenshot 2025-08-10 081305" src="https://github.com/user-attachments/assets/db26da5b-5ffd-4ce8-832f-662d4d09da97" />
   
    
 <img width="608" height="444" alt="Screenshot 2025-08-10 081325" src="https://github.com/user-attachments/assets/cb42981e-e605-4b59-a01c-9b8ae87049c7" />
