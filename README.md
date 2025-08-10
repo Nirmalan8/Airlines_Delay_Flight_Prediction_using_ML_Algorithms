@@ -6,17 +6,17 @@ We explore flight delay data, perform **data preprocessing**, train multiple cla
 
 ---
 ## Using Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
 xgboost
 
 ---
 
 ##  Dataset
-- **Source**: Airline on-time performance dataset (example: U.S. DOT or Kaggle)
+- **Source**: Airline on-time performance dataset (Kaggle-https://www.kaggle.com/datasets/ulrikthygepedersen/airlines-delay)
 - **Features**:
   - `Airline` – Airline carrier code  
   - `Flight` – Flight number  
